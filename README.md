@@ -23,7 +23,7 @@ A Dockerized Python trading bot for MEXC futures trading, designed to execute da
 1. **Clone the Repository** (or create the files manually):
    ```bash
    git clone https://github.com/pablommf23/mexc_dca
-   cd mexc-trading-bot
+   cd mexc-dca
    ```
 
 2. **Set Up Environment Variables**:
